@@ -1,0 +1,20 @@
+{
+    "TOKEN_DISCORD" : "Discord Bot Token",
+    "EMBED_COLOR" : "#8000FF",
+    "PREFIX" : "$$",
+    "DEVELOPERS" : [
+        "ownerID/developerID"
+    ],
+    "clientSpotifyID" : "SpotifyId - first",
+    "clientSpotifySecret" : "SpotifySecret - first",
+    "lunaxClientSpotifyId" : "SpotifyId - second",
+    "lunaxClientSpotifySecret" : "SpotifySecret - second",
+    "geniusApiToken" : "API genius",
+    "HOST" : "Host lavalink",
+    "PORT" : 80,
+    "PASSWORD" : "senha Lavalink",
+    "emoji" : {
+        "erro" : "<:erro:969048914206543952>",
+        "certo" : "<:correct:969048751262011442>"
+    }
+}
