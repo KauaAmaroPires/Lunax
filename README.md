@@ -3,7 +3,7 @@
 </p>
 
 # Lunax
-Um de música para Discord.
+Um bot de música para Discord.
 > **Esse projeto faz parte de uma coleção de projetos que desenvolvi no meu processo de aprendizagem por volta de <ins>2020</ins>**
 
 ## Nota
